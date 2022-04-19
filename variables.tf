@@ -72,7 +72,7 @@ variable "azure_spoke_instance_size" {
 }
 
 variable "azure_spoke2_region" {
-  default = "Canada Central"
+  default = "West Europe"
 }
 
 variable "azure_spoke2_name" {
